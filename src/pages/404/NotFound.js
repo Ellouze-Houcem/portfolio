@@ -8,7 +8,7 @@ function NotFound() {
                 <h1>4<span><FaGhost className='ghost'/></span>4</h1>
                 <h2>Error : 404 page not found</h2>
                 <p>Sorry, the page you're looking for cannot be accessed</p>
-                <Link to="/"> Back to the Home Page ... </Link>
+                <Link to="/portfolio-Home"> Back to the Home Page ... </Link>
         </div>
     )
 }
